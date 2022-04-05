@@ -12,8 +12,8 @@ public:
             }
             if(dict[key].size()==key){      //check if the group full
                 ans.push_back(dict[key]);   //if it full push_back to the vector<int> ans
-                dict.erase(key);            //ans erase the key ans value in unordered_map cuz if don't erase you can't an aother group
-            }
+                dict.erase(key);            //and erase the key ans value in unordered_map cuz if you don't erase you can't creat an aother group
+            }                               //can't have same key in dict
         }
         return ans;
     }
