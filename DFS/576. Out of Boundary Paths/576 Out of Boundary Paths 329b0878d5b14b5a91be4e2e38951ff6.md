@@ -15,7 +15,7 @@ Output: 6
 
 # **Example 2:**
 
-![Untitled](576%20Out%20of%20Boundary%20Paths%20329b0878d5b14b5a91be4e2e38951ff6/Untitled%201.png)
+![Untitled](https://assets.leetcode.com/uploads/2021/04/28/out_of_boundary_paths_2.png)
 
 ```
 Input: m = 1, n = 3, maxMove = 3, startRow = 0, startColumn = 1
