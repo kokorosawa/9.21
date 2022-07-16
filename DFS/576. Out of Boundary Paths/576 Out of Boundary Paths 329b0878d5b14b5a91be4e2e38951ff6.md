@@ -6,7 +6,7 @@ Given the five integers `m`, `n`, `maxMove`, `startRow`, `startColumn`, ret
 
 # **Example 1:**
 
-![Untitled](576%20Out%20of%20Boundary%20Paths%20329b0878d5b14b5a91be4e2e38951ff6/Untitled.png)
+![Untitled](https://assets.leetcode.com/uploads/2021/04/28/out_of_boundary_paths_1.png)
 
 ```
 Input: m = 2, n = 2, maxMove = 2, startRow = 0, startColumn = 0
